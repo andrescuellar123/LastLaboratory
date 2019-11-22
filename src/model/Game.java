@@ -158,7 +158,7 @@ public class Game {
 	
 	
 	public void loadGame(File archivo) throws IOException {
-		//cambiar varia
+		
 		try {
 			FileReader r = new FileReader(archivo);
 			BufferedReader b = new BufferedReader(r);
