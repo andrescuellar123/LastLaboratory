@@ -19,6 +19,8 @@ import java.util.ArrayList;
 public class Game {
 	
 	public final static String ROOT = " ./archivos";
+	
+	
 	private ArrayList<Ball> balls;
 	private Score sc;
 	private int levl;

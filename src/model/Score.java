@@ -56,6 +56,8 @@ public class Score {
 	}
 	
 	
+	
+	
 	public String getScore(){
 		String reporte = "";
 		for(int nivel=0;nivel<names.length;nivel++){

@@ -82,6 +82,7 @@ public class Ball {
 	public int getWaitT() {
 		return waitT;
 	}
+	
 	/**
 	 * @param waitT the waitT to set
 	 */
